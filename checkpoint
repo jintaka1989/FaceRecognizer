@@ -1,0 +1,2 @@
+model_checkpoint_path: "face_recognizer_model.ckpt"
+all_model_checkpoint_paths: "face_recognizer_model.ckpt"
